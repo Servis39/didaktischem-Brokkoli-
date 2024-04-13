@@ -73,4 +73,59 @@ Klarna wird nicht an einem Streitbeilegungsverfahren vor einer Verbraucherschlic
 8. Informationen über Klarna
 Klarna Bank AB (publ), mit eingetragenem Sitz in Sveavägen 46, 111 34 Stockholm, Telefon: +46 8 120 120 00, Telefax: +46 8 120 120 99, E-Mail: kunde@klarna.de, ist eine im schwedischen Unternehmensregister unter der Nummer 556737-0431 eingetragene schwedische Bank. Geschäftsführer ist Herr Sebastian Siemiatkowski. Klarna Bank AB (publ) ist von Finansinspektionen (der schwedischen Finanzaufsichtsbehörde) zur Erbringung von Finanzdienstleistungen zugelassen. Die Eintragung Klarnas in dem Verzeichnis der schwedischen Finanzaufsichtsbehörde sowie eine Liste der Länder, in denen Klarna zur Erbringung grenzüberschreitender Finanzdienstleistungen berechtigt ist, finden Sie auf der Website der Finansinspektionen.
 
-Im Zusammenhang mit Beschwerden gelten die auf www.klarna.com bereitgestellten Informationen.# didaktischem-Brokkoli-
+Im Zusammenhang mit Beschwerden gelten die auf www.klarna.com bereitgestellten Informationen.# didaktischem-Brokkoli-Copyright [yyyy] [name of copyright owner]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.https://de.m.wikipedia.org/wiki/Apache-LizenzAnonymous
+Free Software Directory
+Search
+Search 15,970 pages
+Navigation
+Wiki tools
+License:BSD-3-Clause
+NamespacesLicenseDiscussionPage actionsView sourceHistoryMore
+Name	BSD 3-Clause "New" or "Revised" License
+URL	https://spdx.org/licenses/BSD-3-Clause.html
+Comment	https://www.gnu.org/licenses/license-list.html#ModifiedBSD
+Free and GPL-Compatible License.
+
+License text
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+    (1) Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer. 
+
+    (2) Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in
+    the documentation and/or other materials provided with the
+    distribution.  
+    
+    (3)The name of the author may not be used to
+    endorse or promote products derived from this software without
+    specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE. 
+Categories: LicenseFree license
+
+Privacy policyAbout Free Software Directory
